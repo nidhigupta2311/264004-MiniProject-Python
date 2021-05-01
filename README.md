@@ -4,6 +4,15 @@
 
 # CALCULATOR
 
+How to run the code ?
+Clone the file to the local device
+Check for Python --version on your terminal.
+Go to this file using cd command in command prompt.
+Write "main.py" and check every operation.
+For testing Type
+pip install -U pytest
+pytest cal_test.py
+
 
 
 
