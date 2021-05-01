@@ -4,3 +4,14 @@
 
 # CALCULATOR
 
+
+
+
+
+
+![1](https://user-images.githubusercontent.com/44321700/116779221-a4194a00-aa92-11eb-8053-404980480f87.PNG)
+
+
+
+![2](https://user-images.githubusercontent.com/44321700/116779228-a9769480-aa92-11eb-8564-ea0cf838c9e8.PNG)
+
