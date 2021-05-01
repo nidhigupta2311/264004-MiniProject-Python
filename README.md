@@ -3,6 +3,14 @@
 
 
 # CALCULATOR
+This project can do different arithmetic operations on numbers  and is very easy to use.
+It Performs following arithmetic operations
+ - Addition
+ - Substraction
+ - Multiplication
+ - Float division
+ - Integer division
+ - Modulus
 
 ## How to run the code ?
 - Clone the file to the local device
